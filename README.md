@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul "Paqlio"
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul "RocketLunchi"
 =====================================================================================================================================
 
 Beginner developer from Poland
@@ -6,7 +6,7 @@ Beginner developer from Poland
 
 * 🌍  I'm based in 127.0.0.1
 
-<a href="https://www.github.com/Paqlio" target="_blank" rel="noreferrer"><img
+<a href="https://github.com/RocketLunchi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Paqlio?logo=github&style=for-the-badge&color=ec4899&labelColor=181824" /></a>
 
 ### Skills
