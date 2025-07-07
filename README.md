@@ -7,7 +7,7 @@ Beginner developer from Poland
 * 🌍  I'm based in 127.0.0.1
 
 <a href="https://github.com/RocketLunchi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Paqlio?logo=github&style=for-the-badge&color=ec4899&labelColor=181824" /></a>
+src="https://img.shields.io/github/followers/RocketLunchi?logo=github&style=for-the-badge&color=ec4899&labelColor=181824" /></a>
 
 ### Skills
 
@@ -19,7 +19,3 @@ src="https://img.shields.io/github/followers/Paqlio?logo=github&style=for-the-ba
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/パキオ#0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Paqlio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/Paqlio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
